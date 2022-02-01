@@ -8,7 +8,7 @@ require_relative './exercise_6'
 require_relative './exercise_7'
 require_relative './exercise_8'
 
-puts "Exercise 7"
+puts "Exercise 9"
 puts "----------"
 
 # Make sure non-empty stores cannot be destroyed

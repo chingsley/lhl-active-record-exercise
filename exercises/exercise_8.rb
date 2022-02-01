@@ -8,7 +8,7 @@ require_relative './exercise_7'
 require_relative './exercise_6'
 
 
-puts "Exercise 7"
+puts "Exercise 8"
 puts "----------"
 
 emp = @store1.employees.create(first_name: "Biyi", last_name: "Lawman", hourly_rate: 45)
